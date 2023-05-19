@@ -1,5 +1,5 @@
 const express = require("express");
-const { BangloreModel } = require("../model/BangloreModel");
+const { BangloreModel } = require("../model/bangloreModel");
 
 const BangloreRouter = express.Router();
 
